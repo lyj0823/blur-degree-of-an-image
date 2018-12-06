@@ -1,5 +1,5 @@
-# blur-degree-of-an-image
-It is used to get the degree of blur of an image!
+# face blur degree
+#It is used to get the degree of blur of a face image!
 
 提供测试图像，返回的是图像的模糊程度和图像的模糊程度分布；
 
